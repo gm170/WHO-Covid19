@@ -1,0 +1,237 @@
+﻿Count,Country,WHO Region,Cases - cumulative total,Deaths - cumulative total
+1,United States,Americas,85007630,1002946
+2,India,South-East Asia,43270577,524817
+3,Brazil,Americas,31611769,668693
+4,France,Europe,29114200,145662
+5,Germany,Europe,27124689,140118
+6,The United Kingdom,Europe,22460453,179472
+7,Russian Federation,Europe,18391797,380333
+8,Republic of Korea,Western Pacific,18263643,24416
+9,Italy,Europe,17773764,167617
+10,Turkey,Europe,15085742,98996
+11,Spain,Europe,12551142,107272
+12,Viet Nam,Western Pacific,10734925,43083
+13,Argentina,Americas,9313453,128994
+14,Japan,Western Pacific,9108323,30980
+15,Netherlands,Europe,8118400,22342
+16,Australia,Western Pacific,7719719,9217
+17,Iran (Islamic Republic of),Eastern Mediterranean,7234221,141357
+18,Colombia,Americas,6117847,139894
+19,Indonesia,South-East Asia,6065644,156679
+20,Poland,Europe,6010919,116390
+21,Mexico,Americas,5843190,325271
+22,Ukraine,Europe,5014929,108605
+23,Portugal,Europe,5005783,23746
+24,Malaysia,Western Pacific,4534665,35730
+25,Thailand,South-East Asia,4494880,30422
+26,Austria,Europe,4349916,19984
+27,Israel,Europe,4216009,10882
+28,Belgium,Europe,4187940,31856
+29,China,Western Pacific,4127625,19332
+30,South Africa,Africa,3983675,101584
+31,Czechia,Europe,3924729,40307
+32,Canada,Americas,3892409,41470
+33,Chile,Americas,3857643,58171
+34,Philippines,Western Pacific,3694529,60461
+35,Switzerland,Europe,3684276,13273
+36,Peru,Americas,3593625,213350
+37,Greece,Europe,3525056,30057
+38,Denmark,Europe,3149405,6421
+39,Romania,Europe,2912878,65714
+40,Sweden,Europe,2512853,19075
+41,Iraq,Eastern Mediterranean,2330735,25225
+42,Serbia,Europe,2021601,16105
+43,Bangladesh,South-East Asia,1955427,29131
+44,Hungary,Europe,1923122,46594
+45,Slovakia,Europe,1791987,20126
+46,Jordan,Eastern Mediterranean,1697673,14068
+47,Georgia,Europe,1658755,16838
+48,Ireland,Europe,1578284,7442
+49,Pakistan,Eastern Mediterranean,1531437,30381
+50,Norway,Europe,1438243,3250
+51,Kazakhstan,Europe,1395123,19017
+52,Singapore,Western Pacific,1355801,1401
+53,New Zealand,Western Pacific,1258816,1315
+54,Morocco,Eastern Mediterranean,1179474,16085
+55,Bulgaria,Europe,1167706,37219
+56,Croatia,Europe,1141047,16022
+57,Finland,Europe,1125342,4771
+58,Cuba,Americas,1105681,8529
+59,Lebanon,Eastern Mediterranean,1101109,10445
+60,Lithuania,Europe,1064919,9158
+61,Tunisia,Eastern Mediterranean,1044426,28655
+62,Slovenia,Europe,1029891,7811
+63,Belarus,Europe,982867,6978
+64,Nepal,South-East Asia,979333,11952
+65,Uruguay,Americas,943877,7290
+66,Mongolia,Western Pacific,926282,2115
+67,United Arab Emirates,Eastern Mediterranean,921566,2305
+68,Bolivia (Plurinational State of),Americas,913874,21951
+69,Costa Rica,Americas,904934,8525
+70,Panama,Americas,896924,8314
+71,Ecuador,Americas,891064,35659
+72,Guatemala,Americas,874926,18324
+73,Latvia,Europe,831521,5842
+74,Azerbaijan,Europe,792925,9715
+75,Saudi Arabia,Eastern Mediterranean,781168,9179
+76,Puerto Rico,Americas,727112,4464
+77,Sri Lanka,South-East Asia,663975,16519
+78,"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,658100,5660
+79,Paraguay,Americas,652044,18932
+80,Kuwait,Eastern Mediterranean,637470,2555
+81,Myanmar,South-East Asia,613467,19434
+82,Bahrain,Eastern Mediterranean,599924,1490
+83,Dominican Republic,Americas,594964,4382
+84,Estonia,Europe,578494,2586
+85,Venezuela (Bolivarian Republic of),Americas,524488,5724
+86,Republic of Moldova,Europe,519452,11554
+87,Egypt,Eastern Mediterranean,514008,24720
+88,Libya,Eastern Mediterranean,502076,6430
+89,Cyprus,Europe,497454,1070
+90,Ethiopia,Africa,482032,7518
+91,Honduras,Americas,425655,10902
+92,Armenia,Europe,423044,8625
+93,Réunion,Africa,419968,799
+94,Oman,Eastern Mediterranean,389758,4628
+95,Bosnia and Herzegovina,Europe,378193,15796
+96,Qatar,Eastern Mediterranean,373691,677
+97,Kenya,Africa,328319,5651
+98,Zambia,Africa,323654,3990
+99,Botswana,Africa,313493,2705
+100,North Macedonia,Europe,312807,9320
+101,Albania,Europe,276913,3497
+102,Algeria,Africa,265964,6875
+103,Nigeria,Africa,256467,3144
+104,Luxembourg,Europe,254865,1084
+105,Zimbabwe,Africa,254644,5529
+106,Uzbekistan,Europe,239435,1637
+107,Montenegro,Europe,238211,2722
+108,Kosovo[1],Europe,228439,3129
+109,Mauritius,Africa,227442,1000
+110,Mozambique,Africa,226877,2209
+111,Lao People's Democratic Republic,Western Pacific,210180,757
+112,Kyrgyzstan,Europe,200993,2991
+113,Iceland,Europe,191079,153
+114,Afghanistan,Eastern Mediterranean,181320,7710
+115,Martinique,Americas,180883,950
+116,Maldives,South-East Asia,179979,299
+117,Namibia,Africa,165723,4054
+118,Uganda,Africa,165607,3613
+119,Trinidad and Tobago,Americas,165144,3968
+120,Guadeloupe,Americas,164325,950
+121,El Salvador,Americas,164134,4135
+122,Ghana,Africa,163332,1445
+123,Brunei Darussalam,Western Pacific,155274,164
+124,Jamaica,Americas,141026,3093
+125,Cambodia,Western Pacific,136262,3056
+126,Rwanda,Africa,130510,1459
+127,Cameroon,Africa,119947,1930
+128,Angola,Africa,99761,1900
+129,Malta,Europe,97018,728
+130,Democratic Republic of the Congo,Africa,89932,1345
+131,Senegal,Africa,86201,1968
+132,Malawi,Africa,86162,2643
+133,French Guiana,Americas,84507,399
+134,Côte d’Ivoire,Africa,82614,800
+135,Barbados,Americas,82545,471
+136,Suriname,Americas,80766,1355
+137,French Polynesia,Western Pacific,73142,649
+138,Eswatini,Africa,72980,1412
+139,Guyana,Americas,66129,1244
+140,Fiji,Western Pacific,65268,865
+141,Madagascar,Africa,64685,1396
+142,New Caledonia,Western Pacific,63002,313
+143,Sudan,Eastern Mediterranean,62489,4950
+144,Belize,Americas,61150,678
+145,Bhutan,South-East Asia,59644,21
+146,Mauritania,Africa,59275,982
+147,Cabo Verde,Africa,57464,402
+148,Syrian Arab Republic,Eastern Mediterranean,55909,3150
+149,Jersey,Europe,51132,129
+150,Gabon,Africa,47711,304
+151,Papua New Guinea,Western Pacific,44681,658
+152,Seychelles,Africa,44397,167
+153,Curaçao,Americas,44314,278
+154,Andorra,Europe,43449,153
+155,Burundi,Africa,42398,15
+156,Guam,Western Pacific,42029,370
+157,Aruba,Americas,39339,219
+158,Mayotte,Africa,37820,187
+159,Togo,Africa,37220,273
+160,Guinea,Africa,36817,442
+161,Bahamas,Americas,35464,815
+162,United Republic of Tanzania,Africa,35159,840
+163,Faroe Islands,Europe,34658,28
+164,Isle of Man,Europe,33821,107
+165,Lesotho,Africa,33746,699
+166,Mali,Africa,31135,736
+167,Haiti,Americas,31054,837
+168,Benin,Africa,27122,163
+169,Saint Lucia,Americas,26688,376
+170,Somalia,Eastern Mediterranean,26675,1361
+171,Cayman Islands,Americas,26325,28
+172,Guernsey,Europe,26131,47
+173,Congo,Africa,24128,385
+174,Timor-Leste,South-East Asia,22944,133
+175,Solomon Islands,Western Pacific,21544,153
+176,Burkina Faso,Africa,21044,387
+177,United States Virgin Islands,Americas,20562,117
+178,Gibraltar,Europe,18806,101
+179,Grenada,Americas,18115,231
+180,Tajikistan,Europe,17786,125
+181,South Sudan,Africa,17697,138
+182,Liechtenstein,Europe,17619,84
+183,San Marino,Europe,17413,115
+184,Equatorial Guinea,Africa,15945,183
+185,Djibouti,Eastern Mediterranean,15690,189
+186,Bermuda,Americas,15428,138
+187,Dominica,Americas,14717,67
+188,Nicaragua,Americas,14619,241
+189,Samoa,Western Pacific,14497,28
+190,Central African Republic,Africa,14371,113
+191,Monaco,Europe,12581,57
+192,Gambia,Africa,12002,365
+193,Greenland,Europe,11971,21
+194,Tonga,Western Pacific,11909,12
+195,Yemen,Eastern Mediterranean,11822,2149
+196,Northern Mariana Islands (Commonwealth of the),Western Pacific,11482,34
+197,Saint Martin,Americas,10800,44
+198,Vanuatu,Western Pacific,10791,14
+199,Sint Maarten,Americas,10508,86
+200,Eritrea,Africa,9775,103
+201,Niger,Africa,9031,310
+202,Saint Vincent and the Grenadines,Americas,8956,109
+203,Bonaire,Americas,8696,30
+204,Antigua and Barbuda,Americas,8537,140
+205,Guinea-Bissau,Africa,8307,171
+206,Comoros,Africa,8131,160
+207,Sierra Leone,Africa,7685,125
+208,Liberia,Africa,7489,294
+209,Chad,Africa,7420,193
+210,British Virgin Islands,Americas,6902,63
+211,American Samoa,Western Pacific,6342,31
+212,Turks and Caicos Islands,Americas,6189,36
+213,Sao Tome and Principe,Africa,6010,73
+214,Saint Kitts and Nevis,Americas,5890,43
+215,Cook Islands,Western Pacific,5727,1
+216,Palau,Western Pacific,5165,6
+217,Saint Barthélemy,Americas,4646,4
+218,Anguilla,Americas,3374,9
+219,Kiribati,Western Pacific,3215,13
+220,Saint Pierre and Miquelon,Americas,2765,1
+221,Falkland Islands (Malvinas),Americas,1748,0
+222,Montserrat,Americas,1014,8
+223,Sint Eustatius,Americas,945,5
+224,Other,Other,764,13
+225,Saba,Americas,608,1
+226,Wallis and Futuna,Western Pacific,454,7
+227,Micronesia (Federated States of),Western Pacific,38,0
+228,Holy See,Europe,26,0
+229,Marshall Islands,Western Pacific,18,0
+230,Niue,Western Pacific,9,0
+231,Nauru,Western Pacific,3,0
+232,Tuvalu,Western Pacific,3,0
+233,Democratic People's Republic of Korea,South-East Asia,0,0
+234,Pitcairn Islands,Western Pacific,0,0
+235,Saint Helena,Africa,0,0
+236,Tokelau,Western Pacific,0,0
